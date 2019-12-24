@@ -1,0 +1,6 @@
+﻿  usetime2.cpp
+  mytime2.cpp
+c:\c++programcode\eleventh_chapter\eleventh_chapter\mytime2.cpp(57): warning C4244: “初始化”: 从“double”转换到“long”，可能丢失数据
+  正在生成代码...
+  eleventh_chapter.vcxproj -> C:\C++ProgramCode\eleventh_chapter\Debug\eleventh_chapter.exe
+  eleventh_chapter.vcxproj -> C:\C++ProgramCode\eleventh_chapter\Debug\eleventh_chapter.pdb (Full PDB)
