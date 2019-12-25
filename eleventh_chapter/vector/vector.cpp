@@ -133,7 +133,7 @@ namespace VECTOR
 
 	std::ostream & operator<<(std::ostream & os, const Vector & v)
 	{
-		if (v.mode == Vector::POL)
+		if (v.mode == Vector::RECT)
 			os << "(x,y) = (" << v.x << ", " << v.y << ")";
 		else if (v.mode == Vector::POL)
 		{
