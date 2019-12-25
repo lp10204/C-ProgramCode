@@ -1,2 +1,2 @@
 # C-ProgramCode
-I write C++ codes for practice by myself according the <<C++ Prime Plus>> book.
+I write C++ codes for practice by myself according to the <<C++ Prime Plus>> book.
