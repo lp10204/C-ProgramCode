@@ -1,0 +1,6 @@
+﻿  stonewt.cpp
+c:\c++programcode\eleventh_chapter\stone\stonewt.cpp(22): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+  stone.cpp
+  正在生成代码...
+  stone.vcxproj -> C:\C++ProgramCode\eleventh_chapter\Debug\stone.exe
+  stone.vcxproj -> C:\C++ProgramCode\eleventh_chapter\Debug\stone.pdb (Full PDB)

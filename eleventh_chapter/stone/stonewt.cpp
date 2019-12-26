@@ -24,12 +24,12 @@ Stonewt::Stonewt()
 
 Stonewt::~Stonewt() {}
 
-void Stonewt::show_lbs()
+void Stonewt::show_stn() const
 {
 	cout << stone << " stone, " << pds_left << " pounds\n";
 }
 
-void Stonewt::show_stn()
+void Stonewt::show_lbs() const
 {
 	cout << pounds << " pounds\n"; 
 }

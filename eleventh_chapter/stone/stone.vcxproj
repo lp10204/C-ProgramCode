@@ -145,6 +145,7 @@
     <ClInclude Include="stonewt.h" />
   </ItemGroup>
   <ItemGroup>
+    <ClCompile Include="stone.cpp" />
     <ClCompile Include="stonewt.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />

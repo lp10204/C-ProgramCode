@@ -13,8 +13,8 @@ public:
 	Stonewt(int stn, double lbs);
 	Stonewt();
 	~Stonewt();
-	void show_lbs();
-	void show_stn();
+	void show_lbs() const;
+	void show_stn() const;
 };
 #endif // !STONEWT_H_
 
