@@ -15,15 +15,15 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="stonewt.h">
+    <ClInclude Include="stonewt1.h">
       <Filter>头文件</Filter>
     </ClInclude>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="stonewt.cpp">
+    <ClCompile Include="stonewt1.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="stone.cpp">
+    <ClCompile Include="stone1.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>
