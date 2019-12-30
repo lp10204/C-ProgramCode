@@ -1,0 +1,14 @@
+﻿  string1.cpp
+d:\c++_code_git\c-programcode\eleventh_chapter\sayings1\string1.cpp(18): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: 参见“strcpy”的声明
+d:\c++_code_git\c-programcode\eleventh_chapter\sayings1\string1.cpp(35): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: 参见“strcpy”的声明
+d:\c++_code_git\c-programcode\eleventh_chapter\sayings1\string1.cpp(51): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: 参见“strcpy”的声明
+d:\c++_code_git\c-programcode\eleventh_chapter\sayings1\string1.cpp(60): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: 参见“strcpy”的声明
+  sayings1.cpp
+  正在生成代码...
+d:\c++_code_git\c-programcode\eleventh_chapter\sayings1\string1.cpp(82): warning C4717: “operator>”: 如递归所有控件路径，函数将导致运行时堆栈溢出
+  sayings1.vcxproj -> D:\C++_Code_Git\C-ProgramCode\eleventh_chapter\Debug\sayings1.exe
+  sayings1.vcxproj -> D:\C++_Code_Git\C-ProgramCode\eleventh_chapter\Debug\sayings1.pdb (Full PDB)
