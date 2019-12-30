@@ -50,3 +50,13 @@ StringBad & StringBad::operator=(const StringBad & st)
 	std::strcpy(str, st.str);
 	return *this;
 }
+
+StringBad::StringBad(const StringBad & st)
+{
+	num_strings++;
+	len = st.len;
+	str = new char[len + 1];
+	std::strcpy(str, st.str);
+	cout << num_strings << ": \"" << str
+		<< "\" object created\n";
+}
