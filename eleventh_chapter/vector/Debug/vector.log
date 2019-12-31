@@ -1,2 +1,6 @@
-﻿  vector.vcxproj -> D:\C++_Code_Git\C-ProgramCode\eleventh_chapter\Debug\vector.exe
-  vector.vcxproj -> D:\C++_Code_Git\C-ProgramCode\eleventh_chapter\Debug\vector.pdb (Full PDB)
+﻿  vector.cpp
+  randwalk.cpp
+c:\c++programcode\eleventh_chapter\vector\randwalk.cpp(13): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+  正在生成代码...
+  vector.vcxproj -> C:\C++ProgramCode\eleventh_chapter\Debug\vector.exe
+  vector.vcxproj -> C:\C++ProgramCode\eleventh_chapter\Debug\vector.pdb (Full PDB)

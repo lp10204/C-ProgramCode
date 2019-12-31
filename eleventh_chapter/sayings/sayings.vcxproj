@@ -142,6 +142,16 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="string1.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="string1.h" />
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="Debug\sayings.log" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Debug\sayings.tlog\sayings.lastbuildstate" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
