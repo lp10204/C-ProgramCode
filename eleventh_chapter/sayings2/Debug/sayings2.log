@@ -1,0 +1,4 @@
+﻿  saying2.cpp
+d:\c++_code_git\c-programcode\eleventh_chapter\sayings2\saying2.cpp(51): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+  sayings2.vcxproj -> D:\C++_Code_Git\C-ProgramCode\eleventh_chapter\Debug\sayings2.exe
+  sayings2.vcxproj -> D:\C++_Code_Git\C-ProgramCode\eleventh_chapter\Debug\sayings2.pdb (Full PDB)
