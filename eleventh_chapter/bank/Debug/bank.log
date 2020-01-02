@@ -1,0 +1,4 @@
+﻿  bank.cpp
+d:\c++_code_git\c-programcode\eleventh_chapter\bank\bank.cpp(18): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+  bank.vcxproj -> D:\C++_Code_Git\C-ProgramCode\eleventh_chapter\Debug\bank.exe
+  bank.vcxproj -> D:\C++_Code_Git\C-ProgramCode\eleventh_chapter\Debug\bank.pdb (Full PDB)
