@@ -27,13 +27,13 @@ int main()
 	int hours;
 	cin >> hours;
 	// simulation will run 1 cycle per minute
-	long cyclelimit = MIN_PER_HR * hours;
+	long cyclelimit = MIN_PER_HR * hours;  // # of cycles
 
 	cout << "Enter the average number of customers per hours: ";
 	double perhour;
 	cin >> perhour;
 	double min_per_cust;
-	min_per_cust = MIN_PER_HR / perhour;
+	min_per_cust = MIN_PER_HR / perhour;  // average time between arrivals
 
 	Item temp;
 	long turnaways = 0;
