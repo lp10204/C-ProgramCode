@@ -2,7 +2,7 @@
 #include <iostream>
 #include "tabtenn1.h"
 
-int main(void)
+int main()
 {
 	using std::cout;
 	using std::endl;
@@ -21,9 +21,10 @@ int main(void)
 	cout << "Name: ";
 	rplayer1.Name();
 	cout << "; Rating: " << rplayer1.Rating() << endl;
-// initialize RatedPlayer using TableTennisPlayer object
 	RatedPlayer rplayer2(1212, player1);
 	cout << "Name: ";
 	rplayer2.Name();
 	cout << "; Rating: " << rplayer2.Rating() << endl;
+
+
 }

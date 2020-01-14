@@ -10,21 +10,20 @@ TableTennisPlayer::TableTennisPlayer(const string & fn,
 	hasTable = ht;
 }
 
-void TableTennisPlayer::Name()
+void TableTennisPlayer::Name() const
 {
 	std::cout << lastname << ", " << firstname;
 }
 
-
-// RatedPlayer methods
 RatedPlayer::RatedPlayer(unsigned int r, const string & fn,
 	const string & ln, bool ht) : TableTennisPlayer(fn, ln, ht)
 {
 	rating = r;
 }
 
-RatedPlayer::RatedPlayer(unsigned int r, const TableTennisPlayer & tp)
+RatedPlayer::RatedPlayer(unsigned int r, TableTennisPlayer & tp)
 	: TableTennisPlayer(tp)
 {
 	rating = r;
 }
+
