@@ -9,6 +9,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "usett1", "usett1\usett1.vcx
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "usebrass", "usebrass\usebrass.vcxproj", "{C2BBF1C6-CFC3-40DF-823D-388503006285}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "usebrass3", "usebrass3\usebrass3.vcxproj", "{E1313F20-7FBF-4EAA-9822-CAD9D68CDCD7}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -41,6 +43,14 @@ Global
 		{C2BBF1C6-CFC3-40DF-823D-388503006285}.Release|x64.Build.0 = Release|x64
 		{C2BBF1C6-CFC3-40DF-823D-388503006285}.Release|x86.ActiveCfg = Release|Win32
 		{C2BBF1C6-CFC3-40DF-823D-388503006285}.Release|x86.Build.0 = Release|Win32
+		{E1313F20-7FBF-4EAA-9822-CAD9D68CDCD7}.Debug|x64.ActiveCfg = Debug|x64
+		{E1313F20-7FBF-4EAA-9822-CAD9D68CDCD7}.Debug|x64.Build.0 = Debug|x64
+		{E1313F20-7FBF-4EAA-9822-CAD9D68CDCD7}.Debug|x86.ActiveCfg = Debug|Win32
+		{E1313F20-7FBF-4EAA-9822-CAD9D68CDCD7}.Debug|x86.Build.0 = Debug|Win32
+		{E1313F20-7FBF-4EAA-9822-CAD9D68CDCD7}.Release|x64.ActiveCfg = Release|x64
+		{E1313F20-7FBF-4EAA-9822-CAD9D68CDCD7}.Release|x64.Build.0 = Release|x64
+		{E1313F20-7FBF-4EAA-9822-CAD9D68CDCD7}.Release|x86.ActiveCfg = Release|Win32
+		{E1313F20-7FBF-4EAA-9822-CAD9D68CDCD7}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
