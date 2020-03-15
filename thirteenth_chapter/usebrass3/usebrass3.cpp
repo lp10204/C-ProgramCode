@@ -3,7 +3,7 @@
 #include <iostream>
 #include <string>
 #include "acctabc.h"
-const int CLIENTS = 14;
+const int CLIENTS = 4;
 
 int main()
 {
