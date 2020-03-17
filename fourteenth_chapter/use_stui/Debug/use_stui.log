@@ -1,0 +1,5 @@
+﻿  studenti.cpp
+  use_stui.cpp
+d:\c++_code_git\c-programcode\fourteenth_chapter\use_stuc\use_stui.cpp(4): fatal error C1083: 无法打开包括文件: “studenti.h”: No such file or directory
+  正在生成代码...
+d:\c++_code_git\c-programcode\fourteenth_chapter\use_stui\studenti.cpp(54): error C4716: “operator>>”: 必须返回一个值
