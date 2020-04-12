@@ -1,0 +1,10 @@
+﻿  stacktem.cpp
+d:\c++_code_git\c-programcode\fourteenth_chapter\stacktem\stacktp.h(28): warning C4800: “int”: 将值强制为布尔值“true”或“false”(性能警告)
+  d:\c++_code_git\c-programcode\fourteenth_chapter\stacktem\stacktp.h(27): note: 编译类 模板 成员函数“bool Stack<std::string>::isempty(void)”时
+  d:\c++_code_git\c-programcode\fourteenth_chapter\stacktem\stacktem.cpp(38): note: 参见对正在编译的函数 模板 实例化“bool Stack<std::string>::isempty(void)”的引用
+  d:\c++_code_git\c-programcode\fourteenth_chapter\stacktem\stacktem.cpp(11): note: 参见对正在编译的类 模板 实例化“Stack<std::string>”的引用
+d:\c++_code_git\c-programcode\fourteenth_chapter\stacktem\stacktp.h(34): warning C4800: “int”: 将值强制为布尔值“true”或“false”(性能警告)
+  d:\c++_code_git\c-programcode\fourteenth_chapter\stacktem\stacktp.h(33): note: 编译类 模板 成员函数“bool Stack<std::string>::isfull(void)”时
+  d:\c++_code_git\c-programcode\fourteenth_chapter\stacktem\stacktem.cpp(32): note: 参见对正在编译的函数 模板 实例化“bool Stack<std::string>::isfull(void)”的引用
+  stacktem.vcxproj -> D:\C++_Code_Git\C-ProgramCode\fourteenth_chapter\Debug\stacktem.exe
+  stacktem.vcxproj -> D:\C++_Code_Git\C-ProgramCode\fourteenth_chapter\Debug\stacktem.pdb (Full PDB)

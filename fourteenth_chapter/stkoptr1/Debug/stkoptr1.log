@@ -1,0 +1,4 @@
+﻿  stkoptr1.cpp
+d:\c++_code_git\c-programcode\fourteenth_chapter\stkoptr1\stkoptr1.cpp(10): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+  stkoptr1.vcxproj -> D:\C++_Code_Git\C-ProgramCode\fourteenth_chapter\Debug\stkoptr1.exe
+  stkoptr1.vcxproj -> D:\C++_Code_Git\C-ProgramCode\fourteenth_chapter\Debug\stkoptr1.pdb (Full PDB)
