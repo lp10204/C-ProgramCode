@@ -144,6 +144,9 @@
   <ItemGroup>
     <ClInclude Include="arraytp.h" />
   </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="twod.cpp" />
+  </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
   </ImportGroup>

@@ -1,0 +1,16 @@
+﻿  tempmemb.cpp
+d:\c++_code_git\c-programcode\fourteenth_chapter\tempmemb\tempmemb.cpp(24): warning C4244: “return”: 从“double”转换到“int”，可能丢失数据
+  d:\c++_code_git\c-programcode\fourteenth_chapter\tempmemb\tempmemb.cpp(34): note: 参见对正在编译的函数 模板 实例化“U beta<double>::blab<int>(U,T)”的引用
+          with
+          [
+              U=int,
+              T=double
+          ]
+  d:\c++_code_git\c-programcode\fourteenth_chapter\tempmemb\tempmemb.cpp(34): note: 参见对正在编译的函数 模板 实例化“U beta<double>::blab<int>(U,T)”的引用
+          with
+          [
+              U=int,
+              T=double
+          ]
+  tempmemb.vcxproj -> D:\C++_Code_Git\C-ProgramCode\fourteenth_chapter\Debug\tempmemb.exe
+  tempmemb.vcxproj -> D:\C++_Code_Git\C-ProgramCode\fourteenth_chapter\Debug\tempmemb.pdb (Full PDB)
