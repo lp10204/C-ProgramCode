@@ -6,7 +6,7 @@ template <typename T>
 class beta
 {
 private:
-	template<typename V>
+	template <typename V> 
 	class hold
 	{
 	private:
@@ -19,7 +19,7 @@ private:
 	hold<T> q;
 	hold<int> n;
 public:
-	beta(T t, int i) : q(t), n(i) {}
+	beta(T t, int n) : q(t),n(n){}
 	template<typename U>
 	U blab(U u, T t) { return (n.Value() + q.Value()) * u / t; }
 	void Show() const { q.show(); n.show(); }
@@ -36,4 +36,5 @@ int main()
 	cout << guy.blab(10.0, 2.3) << endl;
 	cout << "U was set to double\n";
 	cout << "Done\n";
+	return 0;
 }
